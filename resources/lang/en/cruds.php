@@ -88,7 +88,7 @@ return [
         ],
     ],
     'incomeCategory'    => [
-        'title'          => 'Daromad kategoriyalarini',
+        'title'          => 'Daromad kategoriyasini',
         'title_singular' => 'Daromad kategoriyasini',
         'fields'         => [
             'id'                => 'ID',
